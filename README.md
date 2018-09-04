@@ -17,18 +17,18 @@ PC: 4000
 
 ## Actividad 3: (C) 12 Píxeles en grupos de 2 del mismo color
 ```
-21 43 77 22 00 C8 18 FE
+3E F3 32 00 C0 21 3C CF 22 01 C0 18 FE
 ```
 PC: 4000
 
 ## Actividad 4: (C) 8 Píxeles, de colores distintos
 ```
-21 43 77 22 00 C8 18 FE
+21 D7 B5 22 00 C0 18 FE
 ```
 PC: 4000
 ## Actividad 5: (CC) Patrón libre de color de al menos 80 píxeles
 ```
-21 43 77 22 00 C8 18 FE
+3E 0F 32 00 C0 21 00 00 22 01 C0 21 F0 F0 22 03 C0 22 05 C0 21 FF FF 22 07 C0 22 09 C0 22 0B C0 22 0D C0 22 0F C0 22 11 C0 3E FF 32 13 C0 18 FE
 ```
 PC: 4000
 
